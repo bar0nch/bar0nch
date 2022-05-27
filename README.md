@@ -2,7 +2,7 @@
 - 👀 I’m interested in game developing, simulations, general scripts, modding.
 - 🌱 I’m currently learning every single instruction humanly possible in python and a bit of unity engine.
 - 💞️ I’m looking to collaborate on python projects or games of verious nature.
-- 📫 How to reach me: work account - baronch.3@gmail.com   discord - Baronch#6249
+- 📫 How to reach me: WORK ACCOUNT - baronch.3@gmail.com ; DISCORD DM - Baronch#6249
 
 <!---
 bar0nch/bar0nch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
